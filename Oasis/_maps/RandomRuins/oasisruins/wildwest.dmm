@@ -1,0 +1,2599 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aZ" = (
+/obj/machinery/door/window/brigdoor,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"bA" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 1;
+	wander = 0
+	},
+/obj/structure/chair/pew/left{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"cD" = (
+/obj/structure/closet/crate/trashcart{
+	anchored = 1
+	},
+/obj/item/broken_bottle,
+/turf/template_noop,
+/area/template_noop)
+"cG" = (
+/obj/machinery/door/window/brigdoor{
+	dir = 8
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"cZ" = (
+/obj/structure/chair/stool/bar,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"di" = (
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/prisoner
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"do" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"dz" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"en" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"fH" = (
+/obj/structure/safe,
+/obj/item/ammo_box/c44,
+/obj/item/ammo_box/c44,
+/obj/item/ammo_box/n762,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ge" = (
+/obj/structure/table/wood/bar,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"gy" = (
+/obj/structure/table/optable,
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor7"
+	},
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor5"
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"gT" = (
+/obj/structure/table/wood/fancy/red,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"hb" = (
+/turf/template_noop,
+/area/template_noop)
+"hg" = (
+/obj/structure/table/wood/poker,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"hL" = (
+/obj/structure/filingcabinet/filingcabinet,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"hQ" = (
+/obj/structure/mineral_door/iron,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ic" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"im" = (
+/obj/structure/chair,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ip" = (
+/obj/structure/dresser,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ir" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 4;
+	wander = 0
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"iw" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"kk" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 4;
+	wander = 0
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ld" = (
+/obj/structure/bed,
+/obj/item/bedsheet/random,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"mK" = (
+/obj/structure/closet/crate/bin,
+/obj/item/paper/crumpled,
+/obj/item/paper/crumpled,
+/obj/item/paper/crumpled,
+/obj/item/paper/crumpled,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"mT" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy/rifle,
+/turf/template_noop,
+/area/template_noop)
+"nd" = (
+/obj/structure/closet/secure_closet/personal/cabinet,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"oD" = (
+/obj/structure/closet/cabinet,
+/obj/item/gun/ballistic/winchester,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"pb" = (
+/obj/structure/table/wood/bar,
+/obj/item/reagent_containers/food/drinks/drinkingglass{
+	pixel_x = -7;
+	pixel_y = -1
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass{
+	pixel_x = 4;
+	pixel_y = 4
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"pv" = (
+/obj/structure/table,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"px" = (
+/obj/effect/mob_spawn/human/clown/corpse,
+/obj/item/chair{
+	pixel_x = 2;
+	pixel_y = -3
+	},
+/obj/item/bikehorn/golden,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/vault,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"pG" = (
+/obj/structure/chair/wood/wings{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"qn" = (
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"qS" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy,
+/obj/structure/chair/pew,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"qU" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"rs" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy,
+/turf/template_noop,
+/area/template_noop)
+"rH" = (
+/obj/structure/chair/sofa{
+	dir = 4
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"rI" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = -1;
+	pixel_y = 12
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"rY" = (
+/obj/structure/safe/floor,
+/obj/item/storage/firstaid/tactical,
+/obj/item/borg/sight/hud/med,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"sh" = (
+/obj/structure/bed,
+/obj/item/bedsheet/random,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"sj" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"sn" = (
+/obj/structure/table,
+/obj/item/paper,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"sP" = (
+/obj/structure/closet/cabinet,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"te" = (
+/obj/structure/chair{
+	dir = 4
+	},
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 4;
+	wander = 0
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ty" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"tA" = (
+/obj/structure/table/wood/bar,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"uE" = (
+/obj/structure/chair/sofa/right{
+	dir = 4
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"uT" = (
+/obj/structure/toilet{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"vX" = (
+/obj/structure/table,
+/obj/item/storage/backpack/duffelbag/med/surgery{
+	pixel_y = 3
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"wk" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_y = 13
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"wJ" = (
+/turf/open/floor/vault,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"xj" = (
+/obj/structure/closet/crate/trashcart{
+	anchored = 1
+	},
+/turf/template_noop,
+/area/template_noop)
+"xp" = (
+/obj/structure/closet/crate/trashcart{
+	anchored = 1
+	},
+/obj/item/trash/can/food/beans,
+/obj/item/trash/can/food/peaches,
+/obj/item/broken_bottle,
+/obj/item/broken_bottle,
+/turf/template_noop,
+/area/template_noop)
+"xt" = (
+/obj/structure/bed,
+/obj/item/bedsheet/random,
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/prisoner
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"yt" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = 1;
+	pixel_y = 13
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"zE" = (
+/obj/structure/closet/crate/medical,
+/obj/item/storage/firstaid/ancient,
+/obj/item/storage/firstaid/medical,
+/obj/item/storage/firstaid/brute,
+/obj/item/storage/firstaid/advanced,
+/obj/item/clothing/neck/stethoscope,
+/obj/item/clothing/mask/bandana/blue,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Am" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = -2;
+	pixel_y = 13
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"AA" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = 1;
+	pixel_y = 13
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"AH" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Bf" = (
+/obj/structure/table,
+/obj/item/pen,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Bg" = (
+/obj/structure/bed,
+/obj/item/bedsheet/random,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Bh" = (
+/obj/structure/chair/wood,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Br" = (
+/obj/machinery/door/airlock/vault,
+/obj/effect/mapping_helpers/airlock/locked,
+/turf/open/floor/vault,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Co" = (
+/obj/structure/closet/secure_closet/freezer/kitchen,
+/obj/item/reagent_containers/food/drinks/bottle/hooch,
+/obj/item/reagent_containers/food/drinks/bottle/champagne,
+/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,
+/obj/item/reagent_containers/food/drinks/bottle/holywater,
+/obj/item/reagent_containers/food/drinks/bottle/tequila,
+/obj/item/reagent_containers/food/drinks/bottle/homemaderum,
+/obj/item/reagent_containers/food/drinks/bottle/whiskey,
+/obj/item/reagent_containers/food/drinks/bottle/wine,
+/obj/item/reagent_containers/food/drinks/bottle/rum,
+/obj/item/reagent_containers/food/drinks/bottle/rum,
+/obj/item/reagent_containers/food/drinks/bottle/rum,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"CG" = (
+/obj/structure/table/wood/fancy,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"CL" = (
+/obj/structure/mineral_door/iron,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"DL" = (
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/prisoner
+	},
+/obj/structure/chair,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"DW" = (
+/obj/structure/bed/roller,
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor7"
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Ep" = (
+/obj/structure/table/wood,
+/obj/item/pen/fountain,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Et" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 1;
+	wander = 0
+	},
+/obj/structure/chair/pew/right{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"ES" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"GF" = (
+/obj/structure/mineral_door/wood,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"GV" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"HE" = (
+/obj/structure/sink/puddle,
+/turf/template_noop,
+/area/template_noop)
+"HT" = (
+/obj/structure/table/wood,
+/obj/machinery/light/small,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Ih" = (
+/turf/closed/wall/mineral/wood/nonmetal,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Im" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy,
+/obj/structure/chair/pew/right,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Io" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Je" = (
+/obj/structure/closet/crate/bin,
+/obj/item/paper/crumpled,
+/obj/item/paper/crumpled,
+/obj/item/paper/crumpled,
+/obj/item/paper/crumpled,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Jn" = (
+/obj/structure/table/wood,
+/obj/item/paper,
+/obj/item/pen,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Ju" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 1;
+	wander = 0
+	},
+/obj/structure/chair/pew{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"JX" = (
+/obj/structure/sign/departments/medbay/alt{
+	pixel_x = -30
+	},
+/turf/template_noop,
+/area/template_noop)
+"KV" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"KZ" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy/rifle{
+	dir = 4;
+	wander = 0
+	},
+/turf/template_noop,
+/area/template_noop)
+"LG" = (
+/obj/structure/chair/pew/left,
+/mob/living/simple_animal/hostile/retaliate/cowboy,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"LT" = (
+/obj/structure/table/wood/bar,
+/obj/item/reagent_containers/food/drinks/drinkingglass,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Mi" = (
+/obj/structure/chair/wood,
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	wander = 0
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Mo" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy/rifle,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Mq" = (
+/obj/structure/window{
+	dir = 1
+	},
+/obj/structure/curtain,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"NS" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
+/obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
+	pixel_x = 1;
+	pixel_y = 12
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"NX" = (
+/obj/structure/chair/wood/wings,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Pp" = (
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"PC" = (
+/obj/structure/bed/roller,
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor6"
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"PR" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"PT" = (
+/obj/structure/bed/roller,
+/obj/effect/decal/cleanable/blood{
+	icon_state = "floor5"
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Qj" = (
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/prisoner
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Qm" = (
+/obj/structure/table/wood,
+/obj/item/paper,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Qn" = (
+/obj/machinery/light/small,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Qv" = (
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Qy" = (
+/obj/structure/closet/crate,
+/obj/item/clothing/neck/stethoscope,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Qz" = (
+/obj/structure/window{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"QD" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"QE" = (
+/turf/closed/wall/mineral/iron,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Rc" = (
+/obj/structure/chair/wood,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"RZ" = (
+/obj/structure/toilet{
+	dir = 1
+	},
+/mob/living/simple_animal/hostile/retaliate/cowboy{
+	dir = 1;
+	wander = 0
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Si" = (
+/obj/structure/reagent_dispensers/beerkeg,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"SI" = (
+/obj/structure/chair/sofa/left{
+	dir = 4
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"SP" = (
+/obj/structure/table/wood/fancy/black,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"SZ" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Tp" = (
+/obj/structure/sink/kitchen{
+	pixel_y = 23
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Tw" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/machinery/light/small,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"TC" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy/rifle{
+	wander = 0
+	},
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"VF" = (
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"VG" = (
+/mob/living/simple_animal/hostile/retaliate/cowboy/rifle{
+	dir = 8;
+	wander = 0
+	},
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"VS" = (
+/mob/living/simple_animal/hostile/retaliate/sheriff,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Wp" = (
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Xy" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"XM" = (
+/obj/item/scalpel,
+/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/monotile,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"YY" = (
+/obj/structure/window,
+/obj/structure/curtain,
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+"Zl" = (
+/obj/structure/closet/crate/trashcart{
+	anchored = 1
+	},
+/obj/item/broken_bottle,
+/obj/item/broken_bottle,
+/obj/item/broken_bottle,
+/turf/template_noop,
+/area/template_noop)
+"Zm" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/monotile/steel,
+/area/ruin/space/has_grav/powered{
+	dynamic_lighting = 0
+	})
+
+(1,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+QE
+QE
+QE
+QE
+QE
+hb
+hb
+Ih
+Ih
+Ih
+Ih
+Ih
+Ih
+Ih
+Ih
+hb
+hb
+hb
+hb
+hb
+HE
+hb
+hb
+hb
+"}
+(2,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+QE
+QE
+QE
+QE
+QE
+QE
+vX
+gy
+pv
+QE
+hb
+Ih
+Ih
+qU
+qU
+Si
+Si
+Si
+Si
+Ih
+Ih
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(3,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+HE
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+QE
+kk
+Qv
+GV
+Qv
+dz
+Qv
+XM
+Qn
+QE
+hb
+GF
+Pp
+Pp
+Io
+Pp
+Pp
+Io
+Pp
+Co
+Ih
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(4,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+QE
+sn
+Bf
+mK
+Qv
+CL
+Qv
+TC
+PT
+QE
+hb
+Ih
+Ih
+Ih
+Ih
+GF
+GF
+Ih
+Ih
+Ih
+Ih
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(5,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+QE
+zE
+rY
+Qv
+Qv
+dz
+DW
+Qv
+PC
+QE
+hb
+Ih
+Tp
+Pp
+ir
+Pp
+Pp
+Pp
+Pp
+Pp
+Ih
+hb
+Ih
+Ih
+AH
+AH
+Ih
+Ih
+hb
+"}
+(6,1,1) = {"
+hb
+Ih
+Ih
+Qz
+Qz
+Ih
+hb
+Ih
+Ih
+Qz
+Qz
+Ih
+hb
+Ih
+Ih
+Qz
+Qz
+Ih
+cD
+QE
+QE
+QE
+CL
+QE
+QE
+QE
+CL
+QE
+QE
+xp
+Ih
+tA
+ge
+pb
+LT
+tA
+tA
+tA
+tA
+Ih
+hb
+Ih
+ty
+ic
+ic
+ty
+Ih
+hb
+"}
+(7,1,1) = {"
+hb
+Ih
+oD
+Bh
+en
+Ih
+hb
+Ih
+sP
+Bh
+en
+Ih
+hb
+Ih
+sP
+Bh
+en
+Ih
+hb
+QE
+Qy
+Qv
+Qv
+te
+te
+te
+Qv
+Qv
+QE
+hb
+Ih
+Pp
+cZ
+Pp
+cZ
+Pp
+cZ
+Pp
+cZ
+Ih
+xj
+Ih
+NX
+hg
+hg
+qn
+Ih
+hb
+"}
+(8,1,1) = {"
+hb
+Ih
+sj
+Pp
+HT
+Ih
+hb
+Ih
+Pp
+Pp
+HT
+Ih
+hb
+Ih
+sj
+Pp
+HT
+Ih
+hb
+dz
+Qv
+Qv
+Qv
+Qv
+Qv
+Qv
+Qv
+Tw
+QE
+hb
+Ih
+LG
+yt
+bA
+Pp
+Pp
+LG
+wk
+bA
+Ih
+hb
+Ih
+NX
+hg
+hg
+qn
+Ih
+hb
+"}
+(9,1,1) = {"
+hb
+Ih
+sh
+Pp
+KV
+Ih
+hb
+Ih
+sh
+Pp
+KV
+Ih
+hb
+Ih
+sh
+Pp
+KV
+Ih
+hb
+QE
+Qy
+Qv
+do
+Qv
+Qv
+do
+Qv
+Qv
+QE
+hb
+AH
+qS
+Am
+Ju
+Pp
+Pp
+qS
+NS
+Ju
+AH
+hb
+Ih
+Pp
+pG
+pG
+Pp
+Ih
+hb
+"}
+(10,1,1) = {"
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+hb
+QE
+QE
+dz
+QE
+CL
+CL
+QE
+dz
+QE
+QE
+hb
+Ih
+Im
+rI
+Et
+Pp
+Pp
+Im
+AA
+Et
+Ih
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+Ih
+hb
+"}
+(11,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+JX
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+Ih
+KV
+Pp
+Io
+Pp
+Pp
+Io
+Pp
+KV
+Ih
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(12,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+Ih
+Ih
+AH
+Ih
+GF
+GF
+Ih
+AH
+Ih
+Ih
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(13,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+hb
+KZ
+hb
+hb
+KZ
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(14,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+"}
+(15,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(16,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+HE
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(17,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(18,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(19,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(20,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(21,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+HE
+hb
+hb
+hb
+"}
+(22,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+rs
+hb
+hb
+hb
+hb
+hb
+"}
+(23,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+mT
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(24,1,1) = {"
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+hb
+Ih
+Ih
+GF
+Ih
+Ih
+hb
+Ih
+GF
+Ih
+Ih
+hb
+Ih
+GF
+Ih
+Ih
+Ih
+hb
+QE
+PR
+QE
+QE
+CL
+QE
+QE
+QE
+QE
+QE
+QE
+Ih
+Ih
+GF
+Ih
+Ih
+Ih
+hb
+"}
+(25,1,1) = {"
+hb
+Ih
+Pp
+Pp
+Pp
+Ih
+hb
+Ih
+Pp
+Pp
+KV
+Ih
+hb
+Ih
+Pp
+Pp
+KV
+Ih
+hb
+Ih
+Pp
+Ep
+Ih
+hb
+Ih
+Pp
+Pp
+KV
+Ih
+hb
+QE
+Bg
+Zm
+SZ
+Wp
+Zm
+SI
+rH
+rH
+uE
+QE
+Ih
+nd
+Pp
+Je
+fH
+Ih
+hb
+"}
+(26,1,1) = {"
+hb
+Mq
+Mi
+gT
+iw
+YY
+hb
+Mq
+Bh
+SP
+iw
+YY
+hb
+Mq
+Bh
+CG
+iw
+YY
+hb
+Ih
+Rc
+Qm
+Ih
+hb
+Ih
+Pp
+Pp
+ip
+Ih
+hb
+QE
+DL
+Wp
+SZ
+Wp
+Wp
+Wp
+Wp
+Wp
+Wp
+hQ
+Pp
+Pp
+Pp
+VS
+Pp
+YY
+hb
+"}
+(27,1,1) = {"
+hb
+Ih
+ld
+sP
+sh
+Ih
+hb
+Ih
+ld
+sP
+sh
+Ih
+hb
+Ih
+ld
+sP
+sh
+Ih
+hb
+Ih
+Je
+Qm
+Ih
+hb
+Ih
+Pp
+Ih
+Ih
+Ih
+hb
+QE
+im
+di
+SZ
+Wp
+Wp
+Wp
+Mo
+Wp
+Wp
+QE
+Ih
+ip
+Jn
+Pp
+Pp
+YY
+hb
+"}
+(28,1,1) = {"
+hb
+Ih
+Ih
+Ih
+Ih
+Ih
+hb
+Ih
+Ih
+Ih
+Ih
+Ih
+hb
+Ih
+Ih
+Ih
+Ih
+Ih
+hb
+Ih
+AH
+Ih
+Ih
+hb
+Ih
+Pp
+GF
+uT
+Ih
+Zl
+QE
+Bg
+Wp
+aZ
+Wp
+Wp
+Wp
+Wp
+Wp
+Wp
+QE
+Ih
+hL
+ES
+Io
+sh
+Ih
+hb
+"}
+(29,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+Ih
+QD
+Ih
+Ih
+Ih
+hb
+QE
+SZ
+SZ
+SZ
+cG
+SZ
+cG
+SZ
+QE
+Br
+QE
+Ih
+Ih
+Ih
+Ih
+Ih
+Ih
+hb
+"}
+(30,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+HE
+hb
+hb
+Ih
+Pp
+GF
+RZ
+Ih
+hb
+QE
+Qj
+Wp
+di
+Wp
+SZ
+Wp
+Wp
+QE
+wJ
+QE
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(31,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+Ih
+Pp
+Ih
+Ih
+Ih
+hb
+QE
+Bg
+VF
+VF
+Bg
+SZ
+Xy
+xt
+QE
+px
+QE
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(32,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+Ih
+VG
+GF
+uT
+Ih
+hb
+QE
+QE
+PR
+PR
+QE
+QE
+QE
+PR
+QE
+QE
+QE
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
+(33,1,1) = {"
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+Ih
+Ih
+Ih
+Ih
+Ih
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+hb
+"}
